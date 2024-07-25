@@ -15,13 +15,9 @@ This project conducts a detailed comparative analysis of two divergent game deve
 
 
 ### Methodologies:
-#### Pygame
+- **Pygame:** Pygame is a library used for game development in Python, offering granular control and benefiting from Python's capabilities but requiring more time investment in coding and architecture.
 
-  Pygame is a library used for game development in Python, offering granular control and benefiting from Python's capabilities but requiring more time investment in coding and architecture.
-
-#### CORE
-
-  CORE is a modern game platform providing a more intuitive logic system and ready-to-use assets, accelerating game creation but potentially limiting detailed customization.
+- **CORE:** CORE is a modern game platform providing a more intuitive logic system and ready-to-use assets, accelerating game creation but potentially limiting detailed customization.
 ------------------------------------------------------------------------------------------------------------------------------
 
 #### Demo of the game developed from scratch using Pygame: 
