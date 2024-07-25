@@ -3,7 +3,7 @@
 This project conducts a detailed comparative analysis of two divergent game development methodologies: the programming-centric approach using Pygame, a traditional library for game development, and CORE, a modern game platform that emphasizes visual development and user-friendliness. The study aims to dissect and evaluate the developmental processes, user experience, flexibility, and the resultant game quality and performance of these methodologies.
 
 
-<img width="766" alt="Screenshot 2024-07-25 at 3 34 40 PM" src="https://github.com/user-attachments/assets/79efb7ca-6b96-4737-b9e1-eb4f90e86ff7">             <img width="771" alt="Screenshot 2024-07-25 at 3 36 03 PM" src="https://github.com/user-attachments/assets/0c674432-f538-4e32-aaf8-a8000c0a04fa">
+<img width="400" alt="Screenshot 2024-07-25 at 3 34 40 PM" src="https://github.com/user-attachments/assets/79efb7ca-6b96-4737-b9e1-eb4f90e86ff7">             <img width="400" alt="Screenshot 2024-07-25 at 3 36 03 PM" src="https://github.com/user-attachments/assets/0c674432-f538-4e32-aaf8-a8000c0a04fa">
 
 
 
@@ -25,7 +25,7 @@ This project conducts a detailed comparative analysis of two divergent game deve
 
 
 #### Demo of the game developed from scratch using Pygame: 
-#### https://youtu.be/MmNT9669E1E
+  #### https://youtu.be/MmNT9669E1E
 
 #### Demo of the game developed uding CORE - AI game engine: 
-#### https://youtu.be/_Hq3j1ivsKw
+  #### https://youtu.be/_Hq3j1ivsKw
