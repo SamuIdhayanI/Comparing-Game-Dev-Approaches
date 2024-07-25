@@ -29,3 +29,8 @@ This project conducts a detailed comparative analysis of two divergent game deve
   #### https://youtu.be/_Hq3j1ivsKw
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+#### For More Details: 
+  #### https://github.com/SamuIdhayanI/Comparing-Game-Dev-Approaches/blob/main/DetailedReport.pdf
+
+------------------------------------------------------------------------------------------------------------------------------
