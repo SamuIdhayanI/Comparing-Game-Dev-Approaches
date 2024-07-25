@@ -22,12 +22,14 @@ This project conducts a detailed comparative analysis of two divergent game deve
 #### CORE
 
   CORE is a modern game platform providing a more intuitive logic system and ready-to-use assets, accelerating game creation but potentially limiting detailed customization.
-
+------------------------------------------------------------------------------------------------------------------------------
 
 #### Demo of the game developed from scratch using Pygame: 
   #### https://youtu.be/MmNT9669E1E
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 #### Demo of the game developed uding CORE - AI game engine: 
   #### https://youtu.be/_Hq3j1ivsKw
+
+------------------------------------------------------------------------------------------------------------------------------
